@@ -1,0 +1,60 @@
+<div class="card-wrapper">
+  
+  <!--  Right  -->
+  <div class="left-block" ng-class="{'no-img': !cardEl.image.data && !cardEl.authData}">
+    <!--  Spacers  -->
+    <span class="h1-space" ng-show="cardEl.data.title || cardEl.authData"></span>
+    <span class="h2-space" ng-show="cardEl.data.subtitle || cardEl.authData"></span>
+    <span class="title-space"></span>
+
+    <!--  Image  -->
+    <img class="thumbnail" 
+         ng-if="!cardEl.authData"
+         ng-src="{{cardEl.image.data}}">
+    <div class="thumbnail edit" 
+         ng-if="cardEl.authData"
+         ng-click="cardEl.updateImg(cardEl.image)">
+      <img class="thumbnail" 
+         ng-src="{{cardEl.image.data}}">
+    </div>
+    <figcaption ng-if="cardEl.authData || cardEl.image.description">
+      <i class="material-icons">photo_camera</i>
+      <span ng-if="cardEl.authData"
+            ng-model="cardEl.image.description"
+          ng-change="cardEl.image.$save()"
+          medium-editor
+          data-placeholder="Pie de página"
+          bind-options="{disableReturn: true, disableExtraSpaces: true, toolbar: false}">
+      </span>
+      <span ng-if="!cardEl.authData">{{cardEl.image.description}}</span>
+    </figcaption>
+  </div>
+
+  <!--  Left  -->
+  <div class="right-block">
+
+    <!--  Title, Subtitle, Description  -->
+    <div ng-if="cardEl.authData">
+      <h1 ng-model="cardEl.data.title"
+          ng-change="cardEl.data.$save()"
+          medium-editor
+          data-placeholder="Título"
+          bind-options="{disableReturn: true, disableExtraSpaces: true, toolbar: false}"></h1>
+      <h2 ng-model="cardEl.data.subtitle"
+          ng-change="cardEl.data.$save()"
+          medium-editor
+          data-placeholder="Subtítulo"
+          bind-options="{disableReturn: true, disableExtraSpaces: true, toolbar: false}"></h2>
+      <span class="title-space"></span>
+    </div>
+    <div ng-if="!cardEl.authData">
+      <h1>{{cardEl.data.title}}</h1>
+      <h2>{{cardEl.data.subtitle}}</h2>
+      <span class="title-space"></span>
+    </div>
+    <randomizer-el data="cardEl.randomizer"
+                   quote-options="{'toolbar': {'buttons': ['bold', 'italic', 'underline', 'unorderedlist']}, disableExtraSpaces: true}">
+    </randomizer-el>
+    <div class="ornament"></div>
+  </div>
+</div>

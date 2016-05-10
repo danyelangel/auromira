@@ -1,0 +1,10 @@
+<div class="hover"></div>
+<div class="splash" ui-scrollpoint="100" ui-scrollpoint-action="splashEl.scrollFire">
+  <img ng-src="{{splashEl.image.data}}" du-parallax y="splashEl.background">
+  <div class="randomizer-fullscreen-wrapper">
+    <randomizer-el data="splashEl.randomizer"
+                   shuffle="true"
+                   quote-options="{'toolbar': {'buttons': ['bold', 'italic', 'underline']}, disableExtraSpaces: true}">
+    </randomizer-el>
+  </div>
+</div>

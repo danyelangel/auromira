@@ -1,0 +1,37 @@
+<div class="subnav-scroll-wrapper"
+     ng-if="subnavEl.show || subnavEl.authData"
+     ng-show="subnavEl.data.length  > 1"
+     ui-scrollpoint="-64">
+  <div class="subnav">
+    <div class="subnav-wrapper">
+      <ul>
+        <li ng-repeat="(key, item) in subnavEl.data"
+            ng-if="!subnavEl.authData">
+          <a ng-click="subnavEl.router.routeTo(subnavEl.parentUrl,item.url)"
+             ng-class="{active: subnavEl.currentArticle == item.url}">{{item.title}}</a>
+        </li>
+        <li ng-repeat="(key, item) in subnavEl.data"
+            ng-mouseenter="itemHover[key]=true"
+            ng-mouseleave="itemHover[key]=false"
+            ng-if="subnavEl.authData">
+          <a ng-click="subnavEl.router.routeTo(subnavEl.parentUrl,item.url)"
+             ng-class="{isEditing: subnavEl.authData, active: subnavEl.currentArticle == item.url}"
+              ng-model="item.title"
+              ng-change="item.$save()"
+              medium-editor
+              data-placeholder="a"
+              bind-options="{disableReturn: true, disableExtraSpaces: true, toolbar: false}"></a>
+          <i ng-click="subnavEl.remove(item)"
+             ng-show="itemHover[key] && subnavEl.authData"
+             class="material-icons">delete</i>
+        </li>
+        <li ng-if="subnavEl.authData">
+          <i ng-click="subnavEl.add()"
+           class="material-icons
+                  icon-width">add</i>
+        </li>
+      </ul>
+    </div>
+  </div>
+  <div class="subnav-placeholder"></div>
+</div>

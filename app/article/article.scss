@@ -1,0 +1,49 @@
+article-el {
+  cover-el {
+    div {
+      width: 100%;
+      overflow: hidden;
+      display: block;
+      background: rgba(0,0,0,0.3);
+      img {
+        z-index: -1;
+      }
+    }
+    div.isEditing {
+      position: relative;
+      min-height: 96px;
+    }
+    div.isEditing:hover {
+      cursor: pointer;
+      opacity: 0.5;
+    }
+    div.isEditing:after {
+      content: 'add_a_photo';
+      display: block;
+      height: 50%;
+      top: 50%;
+      margin-top: -24px;
+      left: 0;
+      right: 0;
+      position: absolute;
+      text-align: center;
+      vertical-align: middle;
+      color: black;
+      opacity: 0.5;
+      // Material icons
+      font-family: 'Material Icons';
+      font-weight: normal;
+      font-style: normal;
+      font-size: 48px;
+      line-height: 1;
+      letter-spacing: normal;
+      text-transform: none;
+      display: inline-block;
+      white-space: nowrap;
+      word-wrap: normal;
+      direction: ltr;
+      -webkit-font-feature-settings: 'liga';
+      -webkit-font-smoothing: antialiased;
+    }
+  }
+}

@@ -1,0 +1,176 @@
+slider-el {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-direction: column;
+  background: linear-gradient(to bottom, #ffffff 0%, #FAFAFA 100%);
+  background: #FAFAFA;
+  max-width: 100vw;
+  min-width: 100vw;
+  width: 100%;
+  overflow: hidden;
+  transition: height 1s;
+  .slider-wrapper {
+    display: flex;
+    flex-direction: row;
+    transition: all 1s;
+    .slide-wrapper {
+      max-width: 100vw;
+      min-width: 100vw;
+      width: 100vw;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      overflow: hidden;
+    }
+    .slide-wrapper.inactive {
+      display: none;
+    }
+    .master-wrapper,
+    .card-wrapper {
+      max-width: 900px;
+      padding-top: 2em;
+      padding-bottom: 2.5em;
+      width: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: flex-start;
+      flex-direction: row;
+      @media(max-width: 600px) {
+        flex-direction: column;
+        align-items: stretch;
+      }
+    }
+    .master-wrapper {
+      .menu {
+        border-top: 1px solid #EEEEEE;
+        margin-top: 2em;
+        padding-top: 0;
+        padding-bottom: 1em;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        span.toggle {
+          margin-top: 16px; // Because font size is less than 1em
+          display: block;
+          text-align: center;
+          text-transform: uppercase;
+          border: 1px solid #EEEEEE;
+          padding: 0.25em;
+          font-size: 0.75em;
+          font-weight: 700;
+          color: #616161;
+          background: #F5F5F5;
+          padding: 0.5em 1.5em 0.5em 1.5em;
+          cursor: pointer;
+          transition: all 0.3s;
+        }
+        span.toggle:hover {
+          opacity: 0.7;
+        }
+        .menu-inner {
+          width: 100%;
+          padding-left: 2.5em;
+          h3 {
+            display: none;
+            font-size: 1em;
+            color: #616161;
+            margin-top: 1.33em;
+          }
+          ul {
+            padding: 0;
+            margin-top: 1em;
+            margin-bottom: 1em;
+            li {
+              list-style: none;
+              div {
+                list-style: none;
+                padding: 0.5em 0 0.5em 0;
+                text-transform: uppercase;
+                font-weight: 700;
+                color: #9E9E9E;
+                font-size: 1em;
+                i {
+                  cursor: pointer;
+                  position: absolute;
+                  font-size: 1.25em;
+                  margin-left: 0.25em;
+                }
+                i.add-category {
+                  position: relative;
+                  margin-left: 0;
+                  line-height: 1.25em;
+                  vertical-align: middle;
+                  opacity: 0.7;
+                }
+                i:hover {
+                  opacity: 0.6;
+                }
+              }
+              div.add-category {
+                cursor: pointer;
+                opacity: 0.7;
+              }
+              div.add-category:hover {
+                opacity: 0.6;
+              }
+              ul {
+                li {
+                  a {
+                    text-decoration: none;
+                    color: #4c4c4c;
+                    font-family: 'PT Serif', serif;
+                    font-size: 1.125em;
+                    cursor: pointer;
+                    transition: all 0.3s;
+                  }
+                  i {
+                    position: relative;
+                    font-size: 1.25em;
+                    line-height: 1.25em;
+                    vertical-align: middle;
+                    cursor: pointer;
+                    color: #4c4c4c;
+                    opacity: 0.7;
+                  }
+                }
+                li:hover {
+                  a, i {
+                    color: #0097A7;
+                  }
+                  i.delete {
+                    position: absolute;
+                    font-size: 1em;
+                  }
+                }
+                li:before {
+                  display: inline-block;
+                  content: '';
+                  width: 1em;
+                  height: 1em;
+                  margin-right: 0.5em;
+                  background-image: url(/images/mother-symbol.png);
+                  background-size: contain;
+                  background-position: center;
+                  opacity: 0.5;
+                  transform: translateY(0.125em);
+                }
+                li.no-bullet {
+                  opacity: 0.5;
+                  a {
+                    margin-right: 0.125em;
+                    transform: translateX(-0.125em);
+                  }
+                }
+                li.no-bullet:before {
+                  display: none;
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

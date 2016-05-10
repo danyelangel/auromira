@@ -1,0 +1,12 @@
+<div ng-if="coverEl.data.data || coverEl.authData"
+     ng-class="{isEditing: coverEl.authData}"
+     ng-click="coverEl.changeImg()">
+  <img ng-src="{{coverEl.data.data}}" 
+       du-parallax 
+       y="coverEl.background" 
+       style="width:100%"
+       ng-if="coverEl.background">
+  <img ng-src="{{coverEl.data.data}}" 
+       style="width:100%"
+       ng-if="!coverEl.background">
+</div>

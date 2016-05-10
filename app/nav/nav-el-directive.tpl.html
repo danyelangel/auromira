@@ -1,0 +1,57 @@
+<div class="nav-scroll-wrapper"
+     ui-scrollpoint>
+  <nav>
+    <div class="nav-wrapper">
+      <a ng-click="navEl.router.routeTo()"
+         class="nav-brand">
+      </a>
+      <ul>
+        <li ng-repeat="(key, item) in navEl.sections"
+            ng-if="item.title && !navEl.authData">
+          <a ng-click="navEl.router.routeTo(item.url)"
+             ng-class="{active: navEl.currentSection == item.url}">{{item.title}}
+          </a>
+        </li>
+        <li ng-if="navEl.footer.title && !navEl.authData">
+          <a ng-click="navEl.router.goToBottom()">
+            {{navEl.footer.title}}
+          </a>
+        </li>
+        <li ng-repeat="(key, item) in navEl.sections"
+            ng-mouseenter="itemHover[key]=true"
+            ng-mouseleave="itemHover[key]=false"
+            ng-if="navEl.authData">
+          <a ng-click="navEl.router.routeTo(item.url)"
+             ng-class="{isEditing: navEl.authData, active: navEl.currentSection == item.url}"
+              ng-model="item.title"
+              ng-change="item.$save()"
+              medium-editor
+              data-placeholder="a"
+              bind-options="{disableReturn: true, disableExtraSpaces: true, toolbar: false}"></a>
+          <i ng-click="navEl.remove(item)"
+             ng-show="itemHover[key] && navEl.authData"
+             class="material-icons">delete</i>
+        </li>
+        <li ng-if="navEl.authData">
+          <a ng-click="navEl.router.goToFooter()"
+             ng-model="navEl.footer.title"
+              ng-change="navEl.footer.$save()"
+              medium-editor
+              data-placeholder="a"
+              bind-options="{disableReturn: true, disableExtraSpaces: true, toolbar: false}"></a>
+        </li>
+        <li ng-show="navEl.authData">
+          <i ng-click="navEl.add()"
+             class="material-icons
+                    icon-width">add</i>
+        </li>
+        <li ng-if="navEl.authData">
+          <i ng-click="navEl.unauth()"
+             class="material-icons
+                    icon-width">exit_to_app</i>
+        </li>
+      </ul>
+    </div>
+  </nav>
+  <div class="nav-placeholder"></div>
+</div>

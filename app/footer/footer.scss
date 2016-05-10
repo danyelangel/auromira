@@ -1,0 +1,34 @@
+footer-el {
+  width: 100vw;
+  text-align: center;
+  .footer-contact {
+    padding: 2.5em;
+    background: #E0E0E0;
+    h1 {
+      font-family: 'Roboto', sans-serif;
+      color: #333;
+      margin: 0;
+      margin-bottom: 0.25em;
+      font-size: 2em;
+    }
+    div {
+      p {
+        margin: 0;
+        font-family: 'Lato', serif;
+        font-size: 1.125em;
+        color: #4c4c4c;
+        line-height: 1.5;
+        font-weight: 100;
+      }
+    }
+  }
+  .footer-copyright {
+    padding: 2em;
+    background: #BDBDBD;
+    span {
+      font-weight: 300;
+      font-size: 1em;
+      color: #616161;
+    }
+  }
+}

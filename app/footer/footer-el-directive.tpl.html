@@ -1,0 +1,30 @@
+<div ng-if="footerEl.authData">
+  <div class="footer-contact">
+    <h1 ng-model="footerEl.footer.title"
+        ng-change="footerEl.footer.$save()"
+        medium-editor
+        data-placeholder="Título"
+        bind-options="{disableReturn: true, disableExtraSpaces: true, toolbar: false}"></h1>
+    <div medium-editor 
+       ng-model="footerEl.footer.p"
+       ng-change="footerEl.footer.$save()"
+       data-placeholder="Descripción"
+       bind-options="{'toolbar': {'buttons': ['bold', 'italic', 'underline']}}"></div>
+  </div>
+  <div class="footer-copyright">
+    <span ng-model="footerEl.footer.copyright"
+        ng-change="footerEl.footer.$save()"
+        medium-editor
+        data-placeholder="Copyright"
+        bind-options="{disableReturn: true, disableExtraSpaces: true, toolbar: false}"></span>
+  </div>
+</div>
+<div ng-if="!footerEl.authData">
+  <div class="footer-contact">
+    <h1>{{footerEl.footer.title}}</h1>
+    <div ng-bind-html="footerEl.footer.p"></div>
+  </div>
+  <div class="footer-copyright">
+    <span>{{footerEl.footer.copyright}}</span>
+  </div>
+</div>

@@ -1,0 +1,149 @@
+<div class="slider-wrapper" ng-style="sliderEl.displacementStyles" ui-scrollpoint="-200" ui-scrollpoint-action="sliderEl.scrollFire">
+  <!--Master-->
+  <div class="slide-wrapper" ng-class="{inactive: sliderEl.currentSlide!=0&&sliderEl.previousSlide!=0}">
+    <div class="slider-nav">
+      <div class="slider-nav-wrapper">
+        <a></a>
+      </div>
+    </div>
+    <div class="master-wrapper">
+    <!--  Left  -->
+    <div class="left-block" ng-class="{'no-img': !sliderEl.image.data && !sliderEl.authData}">
+      <!--  Spacers  -->
+      <span class="h1-space" ng-show="sliderEl.data.title || sliderEl.authData"></span>
+      <span class="h2-space" ng-show="sliderEl.data.subtitle || sliderEl.authData"></span>
+      <span class="title-space"></span>
+
+      <!--  Image  -->
+      <div class="thumbnail" 
+           ng-if="!sliderEl.authData"
+           ng-click="sliderEl.updateImg(sliderEl.image)">
+        <img class="thumbnail" 
+           ng-src="{{sliderEl.image.data}}">
+      </div>
+      <div class="thumbnail edit" 
+           ng-if="sliderEl.authData"
+           ng-click="sliderEl.updateImg(sliderEl.image)">
+        <img class="thumbnail" 
+           ng-src="{{sliderEl.image.data}}">
+      </div>
+      <figcaption ng-if="sliderEl.authData || sliderEl.image.description">
+        <i class="material-icons">photo_camera</i>
+        <span ng-if="sliderEl.authData"
+              ng-model="sliderEl.image.description"
+            ng-change="sliderEl.image.$save()"
+            medium-editor
+            data-placeholder="Pie de página"
+            bind-options="{disableReturn: true, disableExtraSpaces: true, toolbar: false}">
+        </span>
+        <span ng-if="!sliderEl.authData"
+              ng-bind-html="sliderEl.image.description"></span>
+      </figcaption>
+    </div>
+
+    <!--  Right  -->
+    <div class="right-block">
+
+      <!--  Title, Subtitle, Description  -->
+      <div ng-if="sliderEl.authData">
+        <h1 ng-model="sliderEl.data.title"
+            ng-change="sliderEl.data.$save()"
+            medium-editor
+            data-placeholder="Título"
+            bind-options="{disableReturn: true, disableExtraSpaces: true, toolbar: false}"></h1>
+        <h2 ng-model="sliderEl.data.subtitle"
+            ng-change="sliderEl.data.$save()"
+            medium-editor
+            data-placeholder="Subtítulo"
+            bind-options="{disableReturn: true, disableExtraSpaces: true, toolbar: false}"></h2>
+        <span class="title-space"></span>
+        <p medium-editor ng-model="sliderEl.data.p"
+                       ng-change="sliderEl.data.$save()"
+                       data-placeholder="Descripción"
+                       bind-options="{'toolbar': {'buttons': ['bold', 'italic', 'underline', 'unorderedlist']}}"></p>
+      </div>
+      <div ng-if="!sliderEl.authData">
+        <h1 ng-show="sliderEl.data.title"
+            ng-bind-html="sliderEl.data.title"></h1>
+        <h2 ng-show="sliderEl.data.subtitle"
+            ng-bind-html="sliderEl.data.subtitle"></h2>
+        <span class="title-space"></span>
+        <p ng-bind-html="sliderEl.data.p"></p>
+      </div>
+
+      <!--  Menu  -->
+      <div class="menu"
+           ng-if="sliderEl.content || sliderEl.authData">
+        <div class="menu-inner">
+          <h3 class="title">Men&uacute;</h3>
+          <ul>
+          <li ng-repeat="(key, item) in sliderEl.content">
+            <div ng-mouseenter="hoverCategory[key]=true"
+                 ng-mouseleave="hoverCategory[key]=false">
+              <a ng-if="!sliderEl.authData"
+                 ng-bind-html="item.title">
+              </a>
+              <a ng-model="sliderEl.data.content[key].title"
+                  ng-change="sliderEl.data.$save()"
+                  medium-editor
+                  data-placeholder="Título"
+                  bind-options="{disableReturn: true, disableExtraSpaces: true, toolbar: false}"
+                  ng-if="sliderEl.authData">
+              </a>
+              <a ng-click="sliderEl.removeCategory(key)" 
+                 ng-show="hoverCategory[key] && sliderEl.authData">
+                <i class="material-icons">delete</i>
+              </a>
+            </div>
+            <ul>
+              <li ng-repeat="(subkey, subitem) in item.cards"
+                  ng-mouseenter="hoverCard[subkey]=true"
+                  ng-mouseleave="hoverCard[subkey]=false">
+                <img ng-src="{{sliderEl.images[subitem.slideUrl].data}}" ng-if="sliderEl.showGridMenu">
+                <a ng-click="sliderEl.router.routeToUrl(sliderEl.parentUrl+'/'+subitem.slideUrl)">
+                  {{sliderEl.cards[subitem.slideUrl].title}}
+                </a>
+                <a ng-click="sliderEl.removeCard(key, subitem.cardId)" 
+                   ng-show="hoverCard[subkey] && sliderEl.authData">
+                  <i class="material-icons delete">delete</i>
+                </a>
+              </li>
+              <li ng-click="sliderEl.addCard(key)"
+                  ng-show="sliderEl.authData"
+                  class="no-bullet">
+                <i class="material-icons">add</i>
+              </li>
+            </ul>
+          </li>
+          <li ng-click="sliderEl.addCategory()"
+              ng-show="sliderEl.authData">
+            <div class="add-category">
+              <i class="material-icons add-category">add_circle</i>
+            </div>
+          </li>
+        </ul>
+        </div>
+      </div>
+      <div class="ornament"></div>
+    </div>
+</div>
+  </div>
+  <!--Cards-->
+  <div class="slide-wrapper" 
+       ng-if="sliderEl.cards.length && $index!=0" 
+       ng-repeat="item in sliderEl.cards"
+       ng-class="{inactive: sliderEl.currentSlide!=($index)&&sliderEl.previousSlide!=($index)}">
+    <div class="slider-nav">
+      <div class="slider-nav-wrapper">
+        <a ng-click="sliderEl.router.routeToUrl(sliderEl.parentUrl)">
+          <i class="material-icons">arrow_back</i>
+          Volver
+        </a>
+      </div>
+    </div>
+    <card-el data="item"
+             class="card"
+             parent-url="sliderEl.parentUrl">
+    </card-el>
+  </div>
+</div>

@@ -1,0 +1,135 @@
+{
+  "sections": {
+    "home": {
+      "title": "",
+      "articles": [
+        "home"
+      ]
+    },
+    "about": {
+      "title": "Quiénes Somos",
+      "articles": [
+        "home"
+      ]
+    }
+  },
+  "metadata": {
+    "nav": {
+      "title": "Fundación Auromira"
+    },
+    "splash": {
+      "imageId": "splashImg",
+      "randomizerId": "splashRand"
+    },
+    "footer": {
+      "copyright": "Copyright Auromira 2016",
+      "title": "Contáctanos",
+      "p": "Contacto blah blah blah"
+    }
+  },
+  "articles": {
+    "home": {
+      "p": "Auromira es Blah"
+    },
+    "auromira": {
+      "imageId": "auromiraImg",
+      "coverId": "splashImg",
+      "title": "Auromira",
+      "subtitle": "Villa de Leyva, Colombia",
+      "p": "Esto es auromira, yeah!"
+    },
+    "filosofía": {
+      "imageId": "auromiraImg",
+      "coverId": "splashImg",
+      "title": "Filosofía",
+      "subtitle": "Nuestra filosofía",
+      "p": "Esto es nuestro pensamiento!",
+      "content": {
+        "patrones": {
+          "title": "Nuestros Patrones",
+          "cards": [
+            "aurobindo",
+            "madre"
+          ]
+        },
+        "pensamiento": {
+          "title": "Nuestro Pensamiento",
+          "cards": [
+            "trabajo",
+            "belleza"
+          ]
+        }
+      }
+    }
+  },
+  "cards": {
+    "aurobindo": {
+      "title": "Sri Aurobindo",
+      "subtitle": "1900 - 2000",
+      "p": "Él es lo máximo!",
+      "imageId": "auromiraImg"
+    },
+    "madre": {
+      "title": "Madre",
+      "subtitle": "1900 - 2000",
+      "p": "Ella es lo máximo!",
+      "imageId": "auromiraImg"
+    },
+    "trabajo": {
+      "title": "Trabajo",
+      "subtitle": "Escritos sobre el trabajo",
+      "p": "Esto es lo q madre y Bindi dijeron:",
+      "imageId": "auromiraImg",
+      "randomizerId": "trabajoRand"
+    },
+    "belleza": {
+      "title": "Belleza",
+      "subtitle": "Escritos sobre la belleza",
+      "p": "Esto es lo q madre y Bindi dijeron:",
+      "imageId": "auromiraImg",
+      "randomizerId": "bellezaRand"
+    }
+  },
+  "randomizers": {
+    "splashRand": [
+      {
+        "quote": "Sé bueno",
+        "author": "Madre"
+      },
+      {
+        "quote": "Sé feliz",
+        "author": "Aurobindo"
+      }
+    ],
+    "trabajoRand": [
+      {
+        "quote": "Trabaja mucho",
+        "author": "Madre"
+      },
+      {
+        "quote": "Sé trabajador",
+        "author": "Aurobindo"
+      }
+    ],
+    "bellezaRand": [
+      {
+        "quote": "Embellece mucho",
+        "author": "Madre"
+      },
+      {
+        "quote": "Sé bello(a)",
+        "author": "Aurobindo"
+      }
+    ]
+  },
+  "images": {
+    "splashImg": {
+      "type": "url",
+      "data": "https://lh3.googleusercontent.com/Y_ZSA-d5XFrKPavfYMP4n-jKif6u7oyN6NF2S7XsqqLlhDJHx8xjyN5mK1K5zqwcz5nwZhuKw8c1fInKvE2PV5f3vG2J8pJ-O4wabyoZV4e0bgh7fe_ZAD2nWlu_VvYyq5va0f3Yqoy9y9n4KNTG0c6LZYwoo77pbtt93Ss7XUeTDZVzEeuJIR5h6LJ5NItbSewsFGpKrrfF3XsY_y-ff_sSrf8NpsR2zw6sPvnIvrdkFZSXyWEO8voSpeTVP_lnPmKjS_6B5KeRZIUBNW5jHlZeHf21VNEB3XPFT9FqhXXYacRl4ojEh01gmiT8EP8bbMH8M8pz2HENopu43A1uvXluRzxmL4tqM2jpVrRLKtcNb7WStXEUlniLRAr5Yv5jHf6phWdNSG6tZ5u4NTZXq3EwzbWSZxEzCcxGaBBQI7Zhx9sBXi2jwLH1pPXTQiIGdD9v6HgxML6qgfd2UbRmgIF9W-28QfuNAG5vjX01WNKB3m2_x1U3_79df_xJRovpLD63I8znQjCwMjEta5d4NEHDJjEiEfGWoQh4tQu6FCzMqcxT-6pvOeZ20lgkl1p813UQjQ=w1043-h782-no"
+    },
+    "auromiraImg": {
+      "type": "url",
+      "data": "https://lh3.googleusercontent.com/Y_ZSA-d5XFrKPavfYMP4n-jKif6u7oyN6NF2S7XsqqLlhDJHx8xjyN5mK1K5zqwcz5nwZhuKw8c1fInKvE2PV5f3vG2J8pJ-O4wabyoZV4e0bgh7fe_ZAD2nWlu_VvYyq5va0f3Yqoy9y9n4KNTG0c6LZYwoo77pbtt93Ss7XUeTDZVzEeuJIR5h6LJ5NItbSewsFGpKrrfF3XsY_y-ff_sSrf8NpsR2zw6sPvnIvrdkFZSXyWEO8voSpeTVP_lnPmKjS_6B5KeRZIUBNW5jHlZeHf21VNEB3XPFT9FqhXXYacRl4ojEh01gmiT8EP8bbMH8M8pz2HENopu43A1uvXluRzxmL4tqM2jpVrRLKtcNb7WStXEUlniLRAr5Yv5jHf6phWdNSG6tZ5u4NTZXq3EwzbWSZxEzCcxGaBBQI7Zhx9sBXi2jwLH1pPXTQiIGdD9v6HgxML6qgfd2UbRmgIF9W-28QfuNAG5vjX01WNKB3m2_x1U3_79df_xJRovpLD63I8znQjCwMjEta5d4NEHDJjEiEfGWoQh4tQu6FCzMqcxT-6pvOeZ20lgkl1p813UQjQ=w1043-h782-no"
+    }
+  }
+}

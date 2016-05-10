@@ -1,0 +1,692 @@
+{
+  "articles" : {
+    "-KAG7ZP6yQLnA9IMJdJ1" : {
+      "coverId" : "image4",
+      "title" : "Actividades",
+      "url" : "actividades"
+    },
+    "-KAG7eAVZAmNo8ge2mG_" : {
+      "title" : "Alimentación",
+      "url" : "alimentacion"
+    },
+    "-KAG9jphgtrf7KaaNXR3" : {
+      "coverImg" : "splashImg",
+      "p" : "<p>Grumpy wizards make toxic brew for the evil Queen and Jack. One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin.</p><p><br></p><p>He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections.</p>",
+      "title" : "",
+      "url" : "plop"
+    },
+    "-KAPuDCTaNpqB9hckBzP" : {
+      "coverImg" : "",
+      "imageId" : "-KAPuD9cVYqWb8nAY6yE",
+      "p" : "<p>La Fundación Auromira, en Colombia, es una entidad sin ánimo de lucro creada en noviembre del 2003 que tiene como objetivo principal promover el crecimiento y la evolución de la conciencia individual y colectiva.</p><p><br></p><p>Auromira es un centro de educación para la vida que apoya espacios de silencio, auto-observación, trabajo y estudio para lograr un desarrollo integral del ser humano, de sus capacidades físicas, mentales, vitales y espirituales.&nbsp;</p><p><br></p><p>Basada en las enseñanzas de Sri Aurobindo y La Madre respeta el camino espiritual único de cada individuo buscando la unidad humana, la paz y el respeto por la diversidad</p>",
+      "subtitle" : "Acerca de la fundación",
+      "title" : "Auromira",
+      "url" : "main"
+    },
+    "-KASRiG0iyQ7CScUSoAy" : {
+      "content" : {
+        "-KAaIKX_HG071vD5Y0MR" : {
+          "cards" : [ {
+            "cardId" : "-KAaIXdB9ULQG5IEQlcG"
+          } ],
+          "title" : "Enseñanzas"
+        }
+      },
+      "coverId" : "-KASRiDZPSTwuatBWdNG",
+      "imageId" : "-KASRiAwDV2-AQMutkOU",
+      "p" : "<p>Yoga es en esencia un paso de la conciencia ordinaria, en la cual somos conscientes sólo de las apariencias, hacia una conciencia más elevada, amplia y profunda en la cual nos volvemos conscientes de realidades y de la Realidad única. No sólo nos volvemos conscientes de ella, sino que podemos vivir en ella y actuar desde ella y de acuerdo con ella, en vez de vivir en la apariencia de las cosas.</p><p><br></p><p>Yoga es un paso de la ignorancia al auto-conocimiento, de nuestro ser aparente a nuestro ser verdadero, de una vida-existencia externa fenoménica mental vital material a una existencia interna espiritual y a una naturaleza espiritualizada.<br></p>",
+      "subtitle" : "¿Qué es yoga?",
+      "title" : "Yoga Integral",
+      "url" : "yoga"
+    },
+    "-KASRjsVWy-3hLCtWNUP" : {
+      "coverId" : "-KASRjqYFF63WK5Cs-p3",
+      "imageId" : "-KASRjoJiRl1DIw5T4GJ",
+      "p" : "<p>Sri Aurobindo nació en Calcuta el 15 de agosto de 1872 y a la edad de siete años fue enviado a Inglaterra para estudiar. Regresó a India en 1893 y se involucró activamente en el movimiento nacionalista. En 1908 fue arrestado y enviado a prisión. Desde entonces se dedicó completamente a sus prácticas espirituales.&nbsp;</p><p><br></p><p>Llegó a Pondicherry en 1910, para la práctica del Yoga Integral, y para revelarnos que a través del proceso de evolución de conciencia va a existir un nuevo ser, el Supramental, con todas las cualidades divinas. En 1926 se retiró a su cuarto y durante 24 años se dedicó a traer la fuerza supramental a la Tierra. En 1950 dejó su cuerpo. Escribió 30 volúmenes sobre todo tipo de temas: Savitri, La síntesis del yoga, La vida divina, Cartas sobre el yoga, Acerca de sí mismo, etc.<br></p>",
+      "subtitle" : "15 de agosto, 1872 -&nbsp;\t5 de diciembre, 1950",
+      "title" : "Sri Aurobindo",
+      "url" : "aurobindo"
+    },
+    "-KASRkrQKe0W36IfFToE" : {
+      "coverId" : "-KASRkp7_f6jjz1LYqDm",
+      "imageId" : "-KASRkmoKjG2SiE4R7hO",
+      "p" : "<p>La Madre, Mirra Alfassa, &nbsp;fue la colaboradora espiritual de Sri Aurobindo. Nació en París el 21 de febrero de 1878. En 1914 viaja a India,  encuentra a Sri Aurobindo, a quien desde el primer momento reconoció como su guía espiritual y colaborador, el que siempre había visto cerca de ella.&nbsp;</p><p><br></p><p>En 1920 volvió a Pondicherry y en 1926 se hizo cargo de los discípulos y del desarrollo del ashram de Sri Aurobindo. En 1968 creó la ciudad de Auroville, cerca a Pondicherry, un laboratorio para lograr la unidad humana. En 1973 dejó su cuerpo. Hay 17 volúmenes con sus enseñanzas y 13 volúmenes de la Agenda de Madre, sus conversaciones con su discípulo Satprem</p>",
+      "subtitle" : "21 de febrero, 1878 -&nbsp;17 de noviembre, 1973",
+      "title" : "La Madre",
+      "url" : "madre"
+    },
+    "-KASRnGaMHpkBXlMjc2G" : {
+      "coverId" : "-KASRnDmKl55rI2hfxDv",
+      "imageId" : "-KASRnAwsZcSaIwhrMTB",
+      "p" : "<p>Ubicado en las afueras de Villa de Leyva, a 3 horas de Bogotá (Colombia), Auromira es un lugar de transformación integral inspirado en el Yoga de Sri Aurobindo y La Madre.&nbsp;</p><p><br></p><p>Creado con el objetivo de crecer conciencia, respeta el camino espiritual individual y ofrece espacios de silencio, rodeados de naturaleza, para auto-observarse e interiorizar:</p><p><br></p><ul><li><b>Aditi:</b> Salón de meditación (lugar de silencio para concentrarse en la conciencia)<br></li><li><b>Casita de las flores:</b> (lugar de silencio, con mantras 24 horas diarias, para meditar, leer, relajarse)<br></li><li><b>Ananda:</b> Salón de lectura con chimenea<br></li><li><b>Hamacas:</b> (para leer y ver videos)<br></li><li><b>Taller</b>&nbsp;para actividades manuales (arte, cerámica)<br></li><li><b>Gratitud&nbsp;</b>Sala para prácticas físicas y biblioteca (con textos referentes a las diferentes tradiciones espiri\u001Ftuales).</li><li><b>Conciencia:</b> cuarto para terapias físicas<br></li></ul>",
+      "subtitle" : "Nuestros espacios de práctica",
+      "title" : "Instalaciones",
+      "url" : "instalaciones"
+    },
+    "-KASRofVJkVkTXwXxii5" : {
+      "coverId" : "-KASRodXBWrLnBSVat-C",
+      "imageId" : "-KASRoVZ0YTw0zroiWur",
+      "p" : "<p>Auromira ofrece el servicio de biblioteca y el siguiente programa:</p><p><br></p><ul><li><i style=\"line-height: 1.5;\">6:00 a 6:45 am</i>     Meditación colectiva<br></li><li><i style=\"line-height: 1.5;\">6:45 a 8:00 am</i>     Conciencia del cuerpo físico (yoga-asanas,                             pranayama, relajación, etc.)<br></li><li><i style=\"line-height: 1.5;\">9 am a 1 pm</i>         Karma Yoga voluntario (trabajo colectivo                             en jardinería,    limpieza, traducciones,                             construcción, huerta, publicaciones, etc.)<br></li><li><i style=\"line-height: 1.5;\">3 pm a 5 pm</i>         Karma Yoga voluntario, biblioteca o estudio<br></li><li><i>5 pm a 6 pm</i>         Lectura colectiva, mantras, o video<br></li><li><i style=\"line-height: 1.5;\">6 pm a 7 pm</i>         Meditación</li></ul><p><br></p><p>Donación voluntaria.</p><p>Auromira suministra alojamiento y alimentación para aquellas personas que desean hacer un retiro para su trabajo interior y participar de las prácticas diarias.</p>",
+      "subtitle" : "Trabajo interior diario",
+      "title" : "Actividades",
+      "url" : "actividades"
+    },
+    "-KASRpVF9WNNVC3-di6t" : {
+      "content" : {
+        "-KAaffqYejLdYOwboNYg" : {
+          "cards" : [ {
+            "cardId" : "-KAafic_aBKsJIEO7Qsf"
+          } ],
+          "title" : "2015"
+        },
+        "-KAaiVqXAwPlTPbr1TEU" : {
+          "title" : "2016"
+        }
+      },
+      "coverId" : "-KASRpSufw2VCZb_kc_B",
+      "imageId" : "-KASRpQZXst2xccyzZ-v",
+      "p" : "<p>Ésta es una lista de eventos que hemos hecho en el pasado y los que haremos en el futuro.</p>",
+      "title" : "Eventos",
+      "url" : "eventos"
+    },
+    "-KASRzmQ1JbmSwEmiTuF" : {
+      "content" : {
+        "-KAXjm7J4SH3LOGlpa-Y" : {
+          "cards" : [ {
+            "cardId" : "-KAXjmd8rcj6ODxVq3Js"
+          } ],
+          "title" : "Nueva Categoría 1"
+        }
+      },
+      "coverId" : "-KASRzjulQ6yJjIRRLNA",
+      "imageId" : "-KASRzgpSHWv49IAEwIF",
+      "p" : "<p>La Fundación Auromira, en Colombia, es una entidad sin ánimo de lucro creada en noviembre del 2003 que tiene como objetivo principal promover el crecimiento y la evolución de la conciencia individual y colectiva.</p><p>Auromira es un centro de educación para la vida que apoya espacios de silencio, auto-observación, trabajo y estudio para lograr un desarrollo integral del ser humano, de sus capacidades físicas, mentales, vitales y espirituales. </p><p>Basada en las enseñanzas de Sri Aurobindo y La Madre respeta el camino espiritual único de cada individuo buscando la unidad humana, la paz y el respeto por la diversidad</p>",
+      "title" : "Fundación Auromira",
+      "url" : "auromira"
+    },
+    "-KASSLrM9j89nDYh3DtB" : {
+      "coverId" : "-KASSLp5sJYzNmYijplE",
+      "imageId" : "-KASSLmcUnj7_VC1Zhln",
+      "p" : "<p>Desde la visión correcta de ambos, de la vida y del Yoga, toda la vida es, consciente o subconscientemente, un Yoga. Por este término queremos decir que hay un es- fuerzo metódico hacia la auto-perfección, por medio de la expresión de las potencialidades latentes en el ser y la unión del individuo humano con la Existencia universal y trascendente, que vemos parcialmente expresada en el hombre y el Cosmos.&nbsp;</p><p><br></p><p>Pero toda la vida, cuando miramos mas allá de las apariencias, es un vasto Yoga de la Naturaleza intentando realizar su perfección en una expresión cada vez mayor de sus potencialidades y de unirse con su propia realidad divina. En el hombre, su pensador, la Naturaleza encuentra por primera vez en la Tierra un medio auto-consciente y con actividad organizada voluntariamente por medio de la cual este gran propósito podrá ser alcanzado de manera más rápida y poderosa.&nbsp;</p>",
+      "title" : "La escuela es la vida",
+      "url" : "1"
+    },
+    "-KASSQJoaIQYS0-P8TEr" : {
+      "coverId" : "-KASSQHR3YYV8aO5f9oo",
+      "imageId" : "-KASSQDgKGUaqZeDMhqv",
+      "p" : "<p><br></p>",
+      "title" : "Leyes de la Educación",
+      "url" : "educacion"
+    },
+    "-KASSSjfvjKeYoJKO6W-" : {
+      "content" : {
+        "-KAalPbrwFvZ7jdn-jsj" : {
+          "cards" : [ {
+            "cardId" : "-KAalbLxmDZizBtJ62Pj"
+          }, {
+            "cardId" : "-KAaleTt4lnvNFj_rfFK"
+          } ],
+          "title" : "Cuerpo físico"
+        },
+        "-KAalUJPLQOhLaeyW9CI" : {
+          "cards" : [ {
+            "cardId" : "-KAale22_jVMoQNaBvKy"
+          } ],
+          "title" : "Cuerpo mental"
+        },
+        "-KAalVS2Qx8-BFHlBlX1" : {
+          "cards" : [ {
+            "cardId" : "-KAalu9NWMLH6j27xU4m"
+          } ],
+          "title" : "Cuerpo vital"
+        },
+        "-KAalWKoWHA28Q-vxpyk" : {
+          "cards" : [ {
+            "cardId" : "-KAalwN16688CWkf-Thh"
+          } ],
+          "title" : "Cuerpo físico"
+        }
+      },
+      "coverId" : "-KASSSh-ZRH75sisYXI6",
+      "imageId" : "-KASSSeWKjHqfVhspxgo",
+      "p" : "<p>El ser humano se puede dividir en 4 partes fundamentales que Sri Aurobindo y la Madre trataron constantemente a lo largo de sus vidas.</p>",
+      "title" : "Partes del Ser",
+      "url" : "ser"
+    },
+    "-KASSW5a-zQhgcUzc5hn" : {
+      "coverId" : "-KASSW3eDrp_VqJNCQul",
+      "imageId" : "-KASSW1a5pNJSVxlmJ9J",
+      "p" : "<p>Una vida sin objetivo es siempre una vida miserable.</p><p>Todos ustedes deben tener un objetivo; pero no olviden que de la calidad de su objetivo dependerá la calidad de su vida.</p><p><br></p><p>Que su objetivo sea elevado y amplio, generoso y desinteresado; así su vida se volverá valiosa para usted mismo y para los demás.</p><p><br></p><p>Sin embargo, cualquiera que sea su ideal, no podrán realizarlo perfectamente a menos que realicen la perfección en ustedes mismos.</p>",
+      "title" : "La ciencia de vivir",
+      "url" : "escuela"
+    },
+    "-KASSpec_FYfxdPDkVji" : {
+      "coverId" : "-KASSpcFD1IzdBe9xP8-",
+      "imageId" : "-KASSpZ9PyuV0V-k57sn",
+      "title" : "Ediciones",
+      "url" : "ediciones"
+    },
+    "auromira" : {
+      "coverId" : "image2",
+      "coverImg" : "splashImg",
+      "imageId" : "auromiraImg",
+      "p" : "<p>Grumpy wizards make toxic brew for the evil Queen and Jack. One morning, when Gregor Samsa woke from troubled dreams, he found himself <b>transformed</b> in his bed into a horrible vermin.</p><p><br></p><p>He lay on his <i>armour</i>-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections. </p>",
+      "subtitle" : "Villa de Leyva, Colombia",
+      "title" : "Auromira",
+      "url" : "auromira"
+    },
+    "filosofia" : {
+      "content" : {
+        "patrones" : {
+          "cards" : [ {
+            "cardId" : "aurobindo",
+            "url" : "aurobindo"
+          }, {
+            "cardId" : "madre",
+            "url" : "madre"
+          } ],
+          "title" : "Nuestros Maestros"
+        },
+        "pensamiento" : {
+          "cards" : [ {
+            "cardId" : "trabajo",
+            "title" : "Trabajo",
+            "url" : "trabajo"
+          }, {
+            "cardId" : "belleza",
+            "title" : "Belleza",
+            "url" : "belleza"
+          } ],
+          "title" : "Nuestro Pensamiento"
+        }
+      },
+      "coverId" : "image3",
+      "imageId" : "auromiraImg",
+      "p" : "<p><span style=\"line-height: 1.5;\">Nuestra filosofía se basa en el amor y blah. Pero sobre todo en ocupar espacio para poder visualizar cómo se ve exactamente el espaciado del contenido de la página.&nbsp;</span></p><p><span style=\"line-height: 1.5;\"><br></span></p><p>Además, es preciso recordar que así se puede contener espacio supramental y vital en el espaciado de la página realmente ocupado lorem ipsum.</p>",
+      "showGridMenu" : false,
+      "subtitle" : "Hábitos para una vida consciente",
+      "title" : "Físico",
+      "url" : "filosofia"
+    },
+    "home" : {
+      "p" : "Auromira es Blah"
+    }
+  },
+  "cards" : {
+    "-KAQWoAfOml_m5YTmgne" : {
+      "imageId" : "-KAQWo58iHVEQl5U_F1a",
+      "p" : "<p>Salón de meditación (lugar de silencio para concentrarse en la conciencia)</p>",
+      "title" : "Aditi"
+    },
+    "-KAQaGS_rdg6gcJOG9ZN" : {
+      "imageId" : "-KAQaGQTMihY0WqmVTPb",
+      "p" : "<p>El un lugar de silencio, con mantras 24 horas diarias, para meditar, leer, relajarse.</p>",
+      "title" : "Casita de las Flores"
+    },
+    "-KAQaYHFtl_TyYX26VgT" : {
+      "imageId" : "-KAQaYEh2KDu0MFXDByY",
+      "p" : "<p>Salón de lectura con chimenea</p>",
+      "title" : "Ananda"
+    },
+    "-KAQaeKwrdgnj4vXBOFK" : {
+      "imageId" : "-KAQaeIrMuZyL3Q0Vz1Z",
+      "p" : "<p>Para leer y ver videos</p>",
+      "title" : "Hamacas"
+    },
+    "-KAQgidCmbK8JpDN7VLP" : {
+      "imageId" : "-KAQgib4J-5E_aFhkloF",
+      "p" : "<p>Sri Aurobindo nació en Calcuta el 15 de agosto de 1872 y a la edad de siete años fue enviado a Inglaterra para estudiar. Regresó a India en 1893 y se involucró activamente en el movimiento nacionalista. En 1908 fue arrestado y enviado a prisión.&nbsp;</p><p><br></p><p>Desde entonces se dedicó completamente a sus prácticas espirituales. Llegó a Pondicherry en 1910, para la práctica del Yoga Integral, y para revelarnos que a través del proceso de evolución de conciencia va a existir un nuevo ser, el Supramental, con todas las cualidades divinas. En 1926 se retiró a su cuarto y durante 24 años se dedicó a traer la fuerza supramental a la Tierra. En 1950 dejó su cuerpo.&nbsp;</p><p><br></p><p>Escribió 30 volúmenes sobre todo tipo de temas: Savitri, La síntesis del yoga, La vida divina, Cartas sobre el yoga, Acerca de sí mismo, etc.</p>",
+      "subtitle" : "Sri Aurobindo (1872 - 1950)",
+      "title" : "Biografía"
+    },
+    "-KAQiF-mLVVJatxxQmto" : {
+      "imageId" : "-KAQiEyNUXHsW0F6F-Uh",
+      "p" : "<p>La Madre fue la colaboradora espiritual de Sri Aurobindo. Nació en París el 21 de febrero de 1878. En 1914 viaja a India,  encuentra a Sri Aurobindo, a quien desde el primer momento reconoció como su guía espiritual y colaborador, el que siempre había visto cerca de ella. En 1920 volvió a Pondicherry y en 1926 se hizo cargo de los discípulos y del desarrollo del ashram de Sri Aurobindo.&nbsp;</p><p><br></p><p>En 1968 creó la ciudad de Auroville, cerca a Pondicherry, un laboratorio para lograr la unidad humana. En 1973 dejó su cuerpo. Hay 17 volúmenes con sus enseñanzas y 13 volúmenes de la Agenda de Madre, sus conversaciones con su discípulo Satprem</p>",
+      "subtitle" : "Mirra Alfassa (1878 - 1973)",
+      "title" : "Biografía"
+    },
+    "-KASnUMdfnVhkT6ewjKZ" : {
+      "imageId" : "-KASnUFDh5uRlRLDJFG7",
+      "randomizerId" : "-KASnUIL4qa12k9fe2vK",
+      "title" : "Heeey"
+    },
+    "-KASnUssDPzbeXIg2Cww" : {
+      "imageId" : "-KASnUlCBfuYDtGBDsKq",
+      "randomizerId" : "-KASnUnuCjR6e5ni__JZ",
+      "title" : "Hey 2"
+    },
+    "-KASnVia_5yNDynHjLXf" : {
+      "imageId" : "-KASnVaEaEEynDbtukj4",
+      "randomizerId" : "-KASnVd60lQtBnEwHT0u",
+      "title" : "Nueva Tarjeta 1"
+    },
+    "-KAXjmd8rcj6ODxVq3Js" : {
+      "imageId" : "-KAXjmXFIa-KPLhjyrW8",
+      "randomizerId" : "-KAXjmZmJcyNlzAK8Z0K",
+      "title" : "Esto es una prueba<br>"
+    },
+    "-KAaIXdB9ULQG5IEQlcG" : {
+      "imageId" : "-KAaIXZ6xh8aAIq2KWuY",
+      "randomizerId" : "-KAaIX_jGp9K-N05ihv3",
+      "title" : "La Enseñanza"
+    },
+    "-KAafic_aBKsJIEO7Qsf" : {
+      "imageId" : "-KAafiYTX5IlbR38AXhn",
+      "randomizerId" : "-KAafi_8AWEXHJQXc5Uz",
+      "subtitle" : "Villa de Leyva (14 de agosto - 20 de agosto)",
+      "title" : "El yoga integral de Sri Aurobindo y la Madre"
+    },
+    "-KAalbLxmDZizBtJ62Pj" : {
+      "imageId" : "-KAalbGv03Iqk-56kdC4",
+      "randomizerId" : "-KAalbIXXzoQDTKLPvc9",
+      "title" : "Descripción"
+    },
+    "-KAale22_jVMoQNaBvKy" : {
+      "imageId" : "-KAaldlG79gqYtvkZz_m",
+      "randomizerId" : "-KAaldzO-IznBwD1DZrw",
+      "title" : "Descripción"
+    },
+    "-KAaleTt4lnvNFj_rfFK" : {
+      "imageId" : "-KAaleOhs0dIgJDY5Ky2",
+      "randomizerId" : "-KAaleQMGqHmyVLXzc-z",
+      "title" : "Alimentación"
+    },
+    "-KAalu9NWMLH6j27xU4m" : {
+      "imageId" : "-KAalu2-3DhlyiiOCh8k",
+      "randomizerId" : "-KAalu4QJOUNS3bXpDN_",
+      "title" : "Descripción"
+    },
+    "-KAalwN16688CWkf-Thh" : {
+      "imageId" : "-KAalw80OAuUwql-E1Lm",
+      "randomizerId" : "-KAalw9yQZ_HmyWhGlMc",
+      "title" : "Descripción"
+    },
+    "aurobindo" : {
+      "imageId" : "auromiraImg",
+      "p" : "<p>Descripción de Sri Aurobindo!!</p>",
+      "subtitle" : "1900-2000",
+      "title" : "Sri Aurobindo"
+    },
+    "belleza" : {
+      "imageId" : "auromiraImg",
+      "p" : "<p>Esto es lo q madre y Bindi dijeron:</p>",
+      "randomizerId" : "bellezaRand",
+      "subtitle" : "Escritos sobre la belleza",
+      "title" : "Belleza"
+    },
+    "madre" : {
+      "imageId" : "auromiraImg",
+      "p" : "<p>Ella es l o máximo!</p>",
+      "subtitle" : "1900 - 2000",
+      "title" : "Madre"
+    },
+    "trabajo" : {
+      "imageId" : "auromiraImg",
+      "p" : "<p>Esto es lo q madre y Bindi dijeron:</p>",
+      "randomizerId" : "trabajoRand",
+      "subtitle" : "Escritos sobre el trabajo",
+      "title" : "Trabajo"
+    }
+  },
+  "images" : {
+    "-KAPuD9cVYqWb8nAY6yE" : {
+      "data" : "https://lh3.googleusercontent.com/qXtz4TlaI6aZPYA6JX0ccjT3gGI1ROuA1baypM10Z1x8MZHYAMg7Me3Ay_xd-JZ-vBaJWoKB1UHfITs08R50emMvXggkYccSejDRnMjfVw3nMnE0fI-J33x-XE_4FB7b2jTuHDXui1IEGaL5RK2x7uebp7A5ELtUVMcPAv1bw-RjmZRhDyzHRRbots2USgU2cXeCU5KoZN-uUdBYogqry8QsYNj8Pn44veV6EGP3rvCz5awo77Ny2qSjKcgGh-PfhTlK4ZtoewKBtaRlurbkDz02FplhUqJJdWQGTRwmfH_WliC3kLi0iMFXTZvkwhU1-ULWPF8m1FsrZOnedU_O8XtwaU3MJKESuAbR4XT9ke9RnWOOFYxqHi0bYVLCY0-u3gvNJoLx4oSLp6EKpdD9B0LKrQTEfZvsoPhUIFiwv4n6gbFYrlndU0Mtww2Fo9xlxGzC7Ero1K3kIzuq1HBvp6BbznAQ5OJDhroA1yobEjJUbnt3C-rdAZX9FcxpqzLDxGxetV40WWqOTE2R0Tq2eRB7raTOMRRegXLpZp1FINb601kGevPe_T7I3O-0cZ-jIkm5Aw=s738-no",
+      "description" : "Vista a las montañas desde Ananda."
+    },
+    "-KAPuKvMwBmDUwAXH38j" : {
+      "data" : "",
+      "description" : ""
+    },
+    "-KAQf2Hzl2VWPmo0qH9n" : {
+      "data" : ""
+    },
+    "-KASOX5WhiC4FfrbwTak" : {
+      "type" : "url"
+    },
+    "-KASOX7rVQFCv2LTYl4X" : {
+      "type" : "url"
+    },
+    "-KASRiAwDV2-AQMutkOU" : {
+      "data" : "https://lh3.googleusercontent.com/31Zjmu6Bmqcemp-ICdC1WDehEaCiBFuT5w3c3HRh9nBsTMtfmsrJ1O7VZgHea0ajq0qW0MpttIGOnB2fLpEvtlLUK8Dpi47RyS0PHGpvHDf74p-7FD6ouADhpbP1kcMZId-1gyQBY_nblvsE5yHPrwcsFcGCohJmHWYDNPrB8A3UPPG8MptRAfWMmc7GThoMr1gGgY7Mb7SW0sscv2czcJNIXXnWrwxwKZNX5EzkSt1F-rTI6-xE4BpkQpToxLeMjTrq_iLJqURlrU-rgzRbx2uY9b4qb_rl4V4fQa2kEPLX5Aj89kmmHQzXm02zx21m7dAou5zRqdLJvqJeaU2f1ABC0yrQHE3HlmAejckjF2eeEUniEptSQy7bWdmV8hL8QIFZjKSNclb-fzGMQSflINKhCej6LTtSk0xpT-WkbMeetVOAJBrDBFkrPOC9jUEFrswzOHNvgpR511oAJzWPuiOs9bv3RH6d4pDqwZLc463aMwP-pyHwfKX3vaIHgJDhRYOmeS50H8pBEl51EpCsSLKS-Gdw8WTXCU_aqWvlztSCx9wVGli9ZgDBKbzPivvz4t9_Pg=s738-no",
+      "description" : "Mandala hecho con rocas frente a Aditi.&nbsp;",
+      "type" : "url"
+    },
+    "-KASRiDZPSTwuatBWdNG" : {
+      "data" : "https://i.imgsafe.org/027fc11.jpg",
+      "type" : "url"
+    },
+    "-KASRjoJiRl1DIw5T4GJ" : {
+      "data" : "https://upload.wikimedia.org/wikipedia/commons/7/71/Sri_aurobindo.jpg",
+      "description" : "Sri Aurobindo.",
+      "type" : "url"
+    },
+    "-KASRjqYFF63WK5Cs-p3" : {
+      "data" : "https://lh3.googleusercontent.com/CzOihcnvM72NQMIq0F0UjQlTo6yhqgxFPNVySLcK7uuJM74w-BZ9Hs35bqDk1pCwcg_sh8OnFoMV7Ki9z521UP4Os0Sm7DYyPxbaBbTcNpmqvf1A_yRKir9CM5ex8Vj9sL7QTXhauWjI5I2TnlzaU9T8rJzv8fDI2YB01K6sFisy0uF02mpdoA19eaM13tEGlzMwGV828pgUgS2iLrluyr_TK1sCdhy8KglxvdofZ79t7zfMK-DG_o03olmcM-ufaTT-shpygmG0momRnS9mDIZlYFA8j9kpgN0-qlD3lDv187R-dzAf5znUAmLOzfQKIgCiI2bYMgj458B8NYFLvB1fwMmQt8T9U07DfdMbjy7a9OAd27K50cXtd033IDzY8QUUXv2dKAlHFo_twZEd_tPCmD2GwNUemylNVNFGKfqj7mHTY-4v1pLe5_VOJNcSBUo84SBUtzcDOR11E_NehPw4A-WywLEfw9dbLbDuuPza0JWbWvEBD9eY40IlH2MLLwSsXBRSC7_qEPw-DuEkeUcgDDy2MoRHBTdtBhgQO-g9CjZ3UF24xTgcQKiSWqzF3C1uRQ=w1046-h589-no",
+      "type" : "url"
+    },
+    "-KASRkmoKjG2SiE4R7hO" : {
+      "data" : "https://lh3.googleusercontent.com/A8us4KENcm4zae-EuIiwdeLab405vnEBdKaXDkdym_ExXLOMtQYrYIgQQPTVVHbJ1U76AK1IC79iiZ2gzLtKE2Qn6PG3kZHgZeGrOIYCs7ruMT8s5Ws9yUopzNTztPyNQPXteks8uDTO7FrIIW4AcP-ei5fu-chiyVJ2NXOXUNtDertm_5e9-7mm6vEgZkzhhClQ_7llOpeCid0d6TViau0d1fiqNGxaFrs-3-kmkNuXCyJCFXKGYWtc7FWbOpzdQpzZ9iaDmoIw802NQLtOklD2hunamSrcCwjfDfk--Fy4i312fOISzBhGfL4Jl8RMmjoj-Nna-Td8ukFOhtqvL5f2aNN-ytv-ZBVlByEJSab7271_6r1SNgaeditdEJnU_ALoYIVIp1MjKO6zWc__yflTsv_wy8-KRP2sLHL75lpVU_BmX_pEato8CtwkyFMJMZxmdh0nz53ZDJQA55lLNkHmCM_Bpd7hJnJ0MGyRSVSTtr2X8jHGeZHQOHvvCOtaYnoFs8Wq0-y43TpkJoSr3HfBpA1Kd7Wh634D5SMQ5oT0nVvw5AffucdLfTrFtKMaChOR9Q=w557-h738-no",
+      "description" : "La madre.",
+      "type" : "url"
+    },
+    "-KASRkp7_f6jjz1LYqDm" : {
+      "data" : "https://lh3.googleusercontent.com/yrvWggQZGIK7x9o03Y75TYfKCDwAHXSfIHLlHvMN-1cB-op8abO0h0D91wY0iuYBUVFlh_2pXcRYhVcTpe0sC58rv1oEUx8F5tVuamgKT1DO8Fb9LJdkUfBEilcbyZBtYfh6QTRuR-Dh_7vbYnLuztGU3i_HWYjiITE_9lg9q3koonvuz8Id10DUkFaXsjoIdJAgHAF-ctMvBf_OlYFsUckdabGVsdQWGo4gUtp9Nymn3n2SB2hJtLd_VRPWtyHUe-S-4ysJHUNzxquC2dBRoNZVdRJNucGg3i6hdKoovBMCduoO-XwV8RQ-fK4Gagb4-R0Z70c8OPSrKDIs7hzGCJKh_QQB-DmGIkjqHUoy-EZWEwvz24QK5MsapJ5tb3CxT7FVmKDqhrJ7CbVm3FE3viMda1CXl9z2HB53KwDHIK21DM1zl5OR5bZwu3IsG2DDspmgasxX4NFUmvQ1a0W7zRsn0oxzP37JOuGY7YVk7QyYf_xVC2MFErfZWSXvUq1TOQszl5TBIy4yCYCkBvnzHVNdnaJaL5rbIa-yMAQ2qjA4jmZLKn5FBm97jmtle30J802_kw=w994-h738-no",
+      "type" : "url"
+    },
+    "-KASRnAwsZcSaIwhrMTB" : {
+      "data" : "https://lh3.googleusercontent.com/QczBPKLsK43RXogFNWdZKplDSFo0bHcJ8FjF8--unDtwABVZwAEhTPEZyXaCTCs2mIRds5lbTAis7FplmKOY9E-qaBPYZIs4m7g5Fmfs9IjVJIdJ4HrPaAhj1xHyHKZfXRPBEVMZUze3LZQer6I587H0jw2asb1YuoNE3kS49RPmx91n7of2e9bdvqihSiELff4MP3t-GifdUKKftxD8nM7tAfAvgELHXD1yPAeu87Z2LAqDAcLRysgIbV8VUlokG2obEX7B1t1ybdAWTmPjE4RHD-4_XRDZMD-CIeDP_QxJHdDlPon_hI83F6voZoD3uqY4HCD6H48_xhZ3dOlLWP1Q69r5dvDxugXjg3fadco1x56ByoI0Ce1PLw7wFTXEKZdNY9acwGUEhFrWdosN_hpoQ18wtxmx058ASr28d8n7tFCRHF3FB3ridBEHvVvvZ3BrCBN954n3i4Ku7yfIDY7h5GZjaSFcn9EG32BpqcI8LoumF54c6dusELHrYVClDiafDNI6fip2rkrB2hoyzS-fj1GCzd3e7yPEAOIugWXIls9gWKVX8h5ALdnObsQGsF48wQ=w984-h738-no",
+      "description" : "Entrada de Aditi.",
+      "type" : "url"
+    },
+    "-KASRnDmKl55rI2hfxDv" : {
+      "data" : "https://lh3.googleusercontent.com/zYNP-0txh1moDbz4-1hsra-YyDyY6A-TP2Qgoa35DDSsNUTUj2xPOPkit-FnxqVQ5a7_DWwZ8AZIpwFUDduWrfHJHI_Zd4PpIvLjBAGxtAssLJDKjODUDc64gwebaTR69_-HxyK9E_yIqCKAHJOJep3fPMCZo-kJopr1d3Eoc0wGbzHPsC9wotRhb78wmrcb-zc-7bnZcklgmPygNZlUIwG2lmj3weaIJJV9OrVv8kWJ7d0YAnCVkGaOZxzRU_8AKgD6qIUffN0Qiqmt0etrasihsejuH1wtboswfL_qRt-b19rQRE9Vl0QcaWzwOsbj6X66CDDaGAEIMF-qWMVDwaflmhA4etygorLcoHO8DB-a8SoXAeUDRBeOeyR6H-Pu4LPbKKZJQ51blJWb0EvOZtrZp26zI0CyZapXdX0TNz9TgsbGteLkgB3ChYLjLNo_kzbp7LT0ar_NWvI4Pej9_GJneMsJkTm8JZk9kqfFvZVjiCILYTaRA3poLP-X18hAJxSHMNWZPEtC2aXFczF_Ogu-_dyi4--OHQQ6l1TFOZ6GAdPUpKm9BE-5IXT6OdCu4Bym5Q=w1920-h1536-no",
+      "type" : "url"
+    },
+    "-KASRoVZ0YTw0zroiWur" : {
+      "data" : "https://lh3.googleusercontent.com/VV_qJnHEAFpChAXvdVH2-VdIXSX0NzreL8xJr4ty90AVd8CeOMU9kWJvlQSLGp-R-MuAeIGGu1dVNaN521wRrrxsUk4e7n4FCyrPj7jFzcnDZSF8C8NxXjG_kk7GMz8RFOYTIB7ZXWuYNvgfeay1aIkz9VyPVUrOD1yXF4hxY-mHpkYxb1Xv6o15gVirZsKKHEZY8yvUBAizm55Z0iS3wbt0ore_UDKQN9gCR0c_ivXjvyOx-9EcP6K6OwpLAxxxXFDpXtEktjXOQwHfzJ1tqV3P4tAtcwNrK6pqEf-CL8JWUaf1_Kvk11GsDNjtALfBYHSgpU7nloFFFY8f6OMBWnWs5ba0ysmIYOt47pJpaAwcR0MecL2y0jGQ3N8Z4bE8vWPfMpZj7uzWC-H4tS3Y3oYLKGnEPrP9BPkn7W1BVyDpS-E2tlT6zttdDTJLWVqtzo5yS_A9o0_LOvuMNggr0yfBZHhnRw2XIZM23fe4YDzdtykg9khF14fZg2S7irW_H0rVhOQcZ0flP0_PC1H3un_30tUM2syoCkzNZ_cCbjZ6O6-ibYA-a_rT77KMtDlU4p9x7Q=w984-h738-no",
+      "type" : "url"
+    },
+    "-KASRodXBWrLnBSVat-C" : {
+      "data" : "https://lh3.googleusercontent.com/ci9D-6ZVsfxjoyZHpzyT25QL-wIHKwj6L2fji00gQfUu3UtPRLM-FAQ3SKxj3T_67_kzuSoFnZ-QNw-qLZYJXdstIF5TNgXDj2h_YdOBFLMHcfyyw_I60qLLZMdUyxcRovjRV8UJcZ3PpvaZS4mfikDWz7-VJC6narhuUtR7tQhoW4DmI_uk1hnWWIIBf5K5j0zLEiXOeJR_b8srQ0gmtICk3WiLkGGRdDDW8-aP3WHx_ZD0zox7-_woAdbknkmHtddZw781B8wkSqINo4KGCMrf48xgFiIsXWsBa1ShO0i01gVpu3o1GSePKqimsAu4NfIYi2kjRmgGVfLG6ic6cV4UvP-3UBKX4YdWzCMF9hj9ngXrk2y9ufHNUD4VzzF8o5M5Wm0F4t2EHYnSb1u-BrQaUIYjp60p468gSe9Ju4g4jKTjjO6ZzuIUe1to32E2V-pD7ta2YlEtaFIvc6by-FGZJq1FrNNSK61byNi0Idh_yqQqRmHLzbN2YCO8F90IRROielZi2kJCjT1lPON10Jd5eJHr-JUzui3wATOw9_fOkz0wmORtLYzBgHLQjJCc_3G6Tw=w3418-h1926-no",
+      "type" : "url"
+    },
+    "-KASRpQZXst2xccyzZ-v" : {
+      "data" : "https://lh3.googleusercontent.com/KUCtTQsPe9laprTVlwbzGm4pK01izAAWA1Qm1dEDjQl2saRaQp2P4N5ihjZ1PBMtju0Ryfo2La0H7wkVuTrYEdIn9X_8f-bsknu2mtrgjMN0FEoxwqimpJb78cOobK-d_PVahNkb4bLaAO7oN6LPR1ZLtXNyJASeFwWls_GRqeFwxNPx6h8FkpFQuO8U99vwHwCw9Q5GXEuCrk-8jxnpA8jFx3t7b_wirPEIsHNUhllJ4SPOUBydmbLU4Z-Rp2-2akQhsjLXcFkDVLX3Y2rStH6E7HV-iB1g4sNeDAgrHweRkqbBcsYqwGHtxjBBOC-cGFnSSseSGbnyiy-GOlIz7RRJx8uCAa6Y0L7rTILIxP1zsHHc6F-rlhBTKSXsSdm-Q0vYAoQ1-Jt7e0ENdwuMXmLoNgNWmEm-zJpW3wU32OaA0cBBZZIr3HxC5QvfQhpokOVQ4xf-QywY9QEDoiLw47k3Krj3QuLtfVbqxG52DdDMaXeBnkmoDZO--PlgZ0d1352gQrSmLn9RBrVIkJN5P552xFd972R-mbsOnnKaJnVzNfn9gDaNSIOBIx9mI5z_JcQNpA=w878-h658-no",
+      "type" : "url"
+    },
+    "-KASRpSufw2VCZb_kc_B" : {
+      "data" : "https://lh3.googleusercontent.com/SHEFeNawu00B8VI2tZlT3d-lSvwAiPuY8L5m5Qr1zZsbgJVGwYJfxcNH-_dm9nlhHUKIFthbuRdPSaztbevr3IuH9O_GHkJSBXorEKetG6yvPuRHXJPI4tvl_IGzKSoEAB8V_dXBDpG8tYGSTa0pWlRDWJgzIToyIX_Z5hRubtUx_sJQtsFtEgtKfAR-zp_TbiRQAQJ1kSed7eb8AZi5A2HNj4s7u4bxtPLSY2EvFOY6q8zLZTt3QmDgc1vL_NwroOK92Uu1qpHuiWhqv6AN7gVuzkPsLUJE9aNZeP84xlqiGsEz9pyZNER3wlpKfLArwvFkVOO2t6vUiEeI8nhSem84B70BC8QTc5nt5a0FwJ5CZJq_kDwWU1BOsUnV1UaeVca8gxGaNV224glUU7SKa9OZoXHrLmjid0Ggyd9SE0KYerIOUFnCV1UuqSrShEPWNf_XBCjb_4EfItgxuOJ99Rm2G_JkQN-BKAhWmI5hnR6lXA8SwO-8IdneXdb8edmzspoXxxvWJMBMlLljKWAfCijdqyBf_JK8CA-2HEye9c0f5Qw0E-QliycUgYc_AV5K9cMNJQ=w984-h738-no",
+      "type" : "url"
+    },
+    "-KASRzgpSHWv49IAEwIF" : {
+      "type" : "url"
+    },
+    "-KASRzjulQ6yJjIRRLNA" : {
+      "type" : "url"
+    },
+    "-KASSLmcUnj7_VC1Zhln" : {
+      "data" : "https://lh3.googleusercontent.com/Tt83doaX3T_hSYxYkYbISmYSU9CrVsZt4fFWLZ5D5HzcA5O5UlG5Qytyhdh0CSShIqbb4b-qNyS6LpiOWvHfcfa4NS2vjnH57S5kcKRcD9y2knE1_XspnP3po5DM5Q_lcPIMCLJJsIjDa-cgkW3sx3Fn4dZuOl9iOYYFv5oR60Sh0xrdNfAfwuJieWcHTFyeKQqxSpiBZVPm0If8xc0D-R-_ZJNLgx1xhxJcRZgEP-8xloSOceM3SYQ8mBsexvLrCpWwTe5BeU5dwbjuM5zF2vVqvaSHn0F1pY8Nu1v9kk4eDQHQwogBejN4713f5GDsky1ovUQB9kf2RN1z1hlCAEVl-5vhSvdeC2_yoBAumVLBr9nEub1Nxl9tBOEYTMg1GGIP2EJHh-yijLMlUAMoUxt-fd7bnFA8c4RpbGtBgb8Py_dBm7jEnLHV8xtk1fh1ZZbVVspTkCEzOjWnp5uRL9-WKqD512BjOMTIPrFAatTLH38D_3_u2fQeNJh7rhfyPaWD9B2gOg1RSaexKC7wfLI_A0OfT8y3i5czaOpwN1_n8kYPIkecr2UdQUsU1Vztwjghcg=w371-h658-no",
+      "description" : "Casita de las flores.",
+      "type" : "url"
+    },
+    "-KASSLp5sJYzNmYijplE" : {
+      "data" : "https://lh3.googleusercontent.com/2GSZ8I4QYUkMXfI0UExkAZrRPwKKByGP0HEGWuGdnzoZCcI_Em949on2xFnne4oxUmkFiUMlcJ9DlYk0n20d5iW9MPoWt_Okiw_wp-VgdxctiDF3XKdnjsmND5hS9n7mwYpoF_JWwlxFdr93xUiqo46oPoKW9KEy5vgWxLSvbRnYpMMkD0KWUTUBJ4gfQnm4i_hQASYETirbNSDNE5IUstFzkt0NaCL9KkXg1uHHSF5i4qQBl0IuK0PjVcalmxiC9SDtnY0SksoaSFbmFwaQPz4WeifY9WVmf_M7siKU2fAZw7X8vo0Iq-K6xAShGnQiKm_XLcqy3iOdXos9nQE84PnajsYZ_HYttR2s7rJm_j3usinUYe-DwpW30RhXWgI6GKAC3T3uLP95JfkAkqCSIaqfLw-0CmRBuqrXVP5rdjFoIv6aA_aI2s3yp6hEXSnz_sRRZg55uXt9_mFay_V9mypnY5EQObF98Pm90CDBDeE_nOYOK3Eg8SL6aJkenfSZkarJZfQu30dEvdfehqun36xranAowL9zeFG0Jycw2E9PBHyhtp0hIbUBuXhnmD2BF8kZjw=w984-h738-no",
+      "type" : "url"
+    },
+    "-KASSQDgKGUaqZeDMhqv" : {
+      "type" : "url"
+    },
+    "-KASSQHR3YYV8aO5f9oo" : {
+      "data" : "https://images.unsplash.com/reserve/fvD9myEgRued3zLne2GS__DSC0033-1.jpg?crop=entropy&fit=crop&fm=jpg&h=750&ixjsv=2.1.0&ixlib=rb-0.3.5&q=80&w=1400",
+      "type" : "url"
+    },
+    "-KASSSeWKjHqfVhspxgo" : {
+      "data" : "https://lh3.googleusercontent.com/j5a10nCzlhCmaID2Gnc74u26E6Z68d5g1RD40x2RiTWm-bcdIW8Tbb6ONYEaH1B-CJEypzQxbkCh524ArTpl_Ptppk9MAT3fd72LA-hX910cixKDjchOmIo_9Vuh3An6S8CvPmV3FJN74Xh4ZzvhHY37gVtgfYjXWhoJ7DTIRp9lr_vKI2phUT0cwauDNb3kfKSpKKRayLCOw2nMWEI3tutj97_9PRWxWpUGzwjs_WhTpWAzKmVl55d3q6FodPtib7ci83h7wuuoBoFcQGEzjFcugeFMHAYeVsM3YFzLcG71jIuHlIPKpyCR320_-0411uJKzveawsb683IuOfYzyu7JQpQMb9V3OjiEHhpnwHuKVIPsM9-iukt-SUyVxXDAUT8grhLdGe178oag4PvJmwvhhc-H1vmGyE-tZq5rbzZtZeSMW1GV8ct_o0dZYHZYalGxTs35QqWNDvunkLzrY33qudlH8ITjM2j7RymafXzDBbaEzoroz9ND6Smoy7KDsMeJLp47yyA5ME8mZLUsNAuxnWmatcJyN7HvtazV6fAep-KTllfcUql-W87aoDkFRSiy6A=w479-h658-no",
+      "type" : "url"
+    },
+    "-KASSSh-ZRH75sisYXI6" : {
+      "data" : "https://lh3.googleusercontent.com/e28_JMHWnpSTMBgRY62adzBKs2XHrLgFpAMTeSf2F9_SGyVY1fqxzy87Cz5DolWBDvD3olQWlPrfo2ip1acHv7ztelBnPiZ4XxvrIKMpYp8r2sHZ6EHRukX0ug826Bemyo6zroky2f6A6eXG99JzC1_EQqWbus2mnsL5kR_NhTNBg-xQhxCzY_FEy2Lu26EBep5igsQEbPYHgceGeQDuFQDRfjAJRK2gj477kMgXjTN6XAlmvyPwFsd0jJ5SLPeEhobhQ2ZvQRbnl_Nn4PRyUnM5-EWjwSBWLzHJAuw7GnGLpwVrZFpdBbe_9M7xceFpuTjpl7728JiCFV3URHKtXK6J2m0-pN2qRhM108872k46vR6WR-DcrYcvpNnKay7kOlR1QXZlsd11qGN7Ouk2bgLlbpUfISyCzqOTvC06E9L-C-bIZTh-rPdpE4n1WwJ0hEreqSZXGKy4K03ImIqoS3NXqCXcqzHolDZ1PCdC781g0Q8e9j4nSy5VoEqWTY13LanmSaBevboJcboXAJuz9nglD-YKriiCNc0fy50PkKJA6Iv04mJpkLK4D4axgb38NkN5gA=w1023-h615-no",
+      "type" : "url"
+    },
+    "-KASSW1a5pNJSVxlmJ9J" : {
+      "data" : "https://lh3.googleusercontent.com/39cv1rGtan0p4FH3IGxYsLOcP6xf7lWI6HDamgUALeJRo1XTvxMXHDZqCkZRuFJTV8Z5_c8bJ5-_PpE7-Y8MRA0M1RGrlzfEglkYiXhIyteBpborBHC4s6E7Hi24_TjHIuNREj0QdTyG4q2hPHNyd-47esIrZato3y80fqc1jYxrKQEniEpOfBQDb5MNdcQqhXRJd2ZqjRi4n8tFSNozl8jmpag4_ASoNkgq00aNfalfZuplc4as7HxG3nSuz59PgtknoYHwWWWRfONwgnByToKH84gSryXZB23s1jYcvYYzOQ-rWUsOZrL7j-4bCEjWaetZc0gkmIMnMbhLJejSr5solDPenrcqsnfl9Z_vzNSQEObKOh1YlJchDR-Ok6E0jJCVnRAR1b5U9TTba8ZxtNrIeMcSaQP8foDlby3mW1WV_4ikuCYvEptZVL8azlSWHGgUCWdyDSTrq9CyJCzvLgE2xcBrEwtsoMzXpe5QnIZHaDO2D_sY8812xtcq8Kv_VjJzIoXXlxS0bm218NW2D3Z_dP8TlhRxPWAOQeDUu6G0kE1-0Mv3z4gQmfLDn-PLk1YjTQ=w494-h658-no",
+      "type" : "url"
+    },
+    "-KASSW3eDrp_VqJNCQul" : {
+      "data" : "https://lh3.googleusercontent.com/q_Cqn0x8QLusWO3rxDEfdD0bnkma3Vrrs7WgclAIV03kHOUhYNkxKA57pZljAIchWTnqRHZM3LkPC9AhnIogu5ZF5vzjyMFpHIPMn3zO9Ieh2rFdmhTgRvUl5K2sEdhjbNY0BMob_jCVSC0-HHMDcOZmCQFduoc4Cr2m_nCe3_M4QXvedERMcXDXb7jnCYUjVwrFUAn3gYrEsXMJWbwTnL1FpW9to8x431gtFBL3vLPPa6NPDfSlxAGRLXjpaFWeqMczNgL3mFvi5gzAjbMPIQ0CXcfLVVe99d_JPKo6jePALZsL7XA8pFK2Sn7ZWSpJpEw5lgbJiMoNKVyLSKn5cEZSYS5MFb1SZqXeXhKToy8Zq2KzfndzQ30267zKFw1Rf82yKUBulBFo3TTu8I8AOU5iOe4tL0iv5P8X6mB3FxH62CJdv24Tytp6U5Y8U6TciHXT9mI6CnVOGJDfj4KgarO1-psJqXVgx5CqkDsw7_OBmpDwhr5umbxkSEILJPEobCIDiQ3jziZFNi-UzTfexOjSVR09BDB9H6zAbS8-EtlvL0NXqSTcS_6-wsxytz_9HeccNw=w1046-h589-no",
+      "type" : "url"
+    },
+    "-KASSgrpz0hvCib9xwfo" : {
+      "type" : "url"
+    },
+    "-KASSguS7_l84lY1gSeN" : {
+      "type" : "url"
+    },
+    "-KASSpZ9PyuV0V-k57sn" : {
+      "type" : "url"
+    },
+    "-KASSpcFD1IzdBe9xP8-" : {
+      "type" : "url"
+    },
+    "-KASa0oOc6w_8ZXRjB53" : {
+      "type" : "url"
+    },
+    "-KASbAMqBqE4GKtFzEt-" : {
+      "type" : "url"
+    },
+    "-KASdYkEb5iHWSCFz-BJ" : {
+      "type" : "url"
+    },
+    "-KASjJzhdtXBE-eA2GQJ" : {
+      "type" : "url"
+    },
+    "-KASjK32eK83hAjv9kHK" : {
+      "type" : "url"
+    },
+    "-KASjQWtlFFcuaYqzA-E" : {
+      "type" : "url"
+    },
+    "-KASm7GKrAVrMPcSCVEK" : {
+      "type" : "url"
+    },
+    "-KASm7Iz_h8yp_FaLrsa" : {
+      "type" : "url"
+    },
+    "-KASnUFDh5uRlRLDJFG7" : {
+      "type" : "url"
+    },
+    "-KASnUlCBfuYDtGBDsKq" : {
+      "type" : "url"
+    },
+    "-KASnVBP7PccPxOWB-j2" : {
+      "type" : "url"
+    },
+    "-KASnVaEaEEynDbtukj4" : {
+      "type" : "url"
+    },
+    "-KAXjmXFIa-KPLhjyrW8" : {
+      "type" : "url"
+    },
+    "-KAaIXZ6xh8aAIq2KWuY" : {
+      "type" : "url"
+    },
+    "-KAafiYTX5IlbR38AXhn" : {
+      "data" : "https://lh3.googleusercontent.com/KUCtTQsPe9laprTVlwbzGm4pK01izAAWA1Qm1dEDjQl2saRaQp2P4N5ihjZ1PBMtju0Ryfo2La0H7wkVuTrYEdIn9X_8f-bsknu2mtrgjMN0FEoxwqimpJb78cOobK-d_PVahNkb4bLaAO7oN6LPR1ZLtXNyJASeFwWls_GRqeFwxNPx6h8FkpFQuO8U99vwHwCw9Q5GXEuCrk-8jxnpA8jFx3t7b_wirPEIsHNUhllJ4SPOUBydmbLU4Z-Rp2-2akQhsjLXcFkDVLX3Y2rStH6E7HV-iB1g4sNeDAgrHweRkqbBcsYqwGHtxjBBOC-cGFnSSseSGbnyiy-GOlIz7RRJx8uCAa6Y0L7rTILIxP1zsHHc6F-rlhBTKSXsSdm-Q0vYAoQ1-Jt7e0ENdwuMXmLoNgNWmEm-zJpW3wU32OaA0cBBZZIr3HxC5QvfQhpokOVQ4xf-QywY9QEDoiLw47k3Krj3QuLtfVbqxG52DdDMaXeBnkmoDZO--PlgZ0d1352gQrSmLn9RBrVIkJN5P552xFd972R-mbsOnnKaJnVzNfn9gDaNSIOBIx9mI5z_JcQNpA=w878-h658-no",
+      "type" : "url"
+    },
+    "-KAakbttxPBLOl-PBKMs" : {
+      "type" : "url"
+    },
+    "-KAalbGv03Iqk-56kdC4" : {
+      "type" : "url"
+    },
+    "-KAaldlG79gqYtvkZz_m" : {
+      "type" : "url"
+    },
+    "-KAaleOhs0dIgJDY5Ky2" : {
+      "type" : "url"
+    },
+    "-KAalgRIZZcvuo9xTwqQ" : {
+      "type" : "url"
+    },
+    "-KAalu2-3DhlyiiOCh8k" : {
+      "type" : "url"
+    },
+    "-KAalw80OAuUwql-E1Lm" : {
+      "type" : "url"
+    },
+    "splashImg" : {
+      "data" : "https://lh3.googleusercontent.com/mQHEDas5YskrJ5_IUmgH8_NNAurnDGtVgzph5D675GCYcJLnvMHVpTSozYc55HtfPM_mRcrdStsa--rGR9RYUmCFzTH_YV39b5Gw_5Yfk9M-hCwzS7mpNofHidD9P3bZ_doNVAxsc6rGY8YFJ6sNJI1lm3JhdtIO9Jg_idw13iJBFcd00SQFxxwc_1AG3n8igzap4Yg4UvsVxXy9Y7c5agIwoXArVFZLh9GLPwGOfay8JO7_jot1Aj56fB-_aO_24fiEGLFV4E_3O_r39zbbxMHI5mly4hDhLXnHbX4cQttF_tbe27rZnKbF7GffRSMfoqZK5YcQ-PzIwEeRAHJ2CxSxZSUSkB8rHpbObSPteLX4Pnb8Sq4A3AMUBuvXzis35gtjGNOQtaiOHJmLJu9bs3RS6bkiq3M3KTSpJLUV0GFM8VLicuEx-7ty2sDIxDIhYwSIIyfsropzR8gwwvkynqyRHCKvdLedQynclwClYO_VrpPNYKtPd9_eC7DMJsokPEXQUAVCbfkp96jLBk-EPZnwONOkCztMfsjCwlNnBCq4U6gbrtxEyuews-l6t2-GnLh6gQ=w1920-h1080-no",
+      "type" : "url"
+    }
+  },
+  "metadata" : {
+    "footer" : {
+      "copyright" : "Auromira © 2016",
+      "p" : "<p style=\"text-align: center;\">fundacionauromira@hotmail.com</p><p style=\"text-align: center;\">+57 310.311.0608<br></p>",
+      "title" : "Contacto"
+    },
+    "nav" : {
+      "title" : "Fundación Auromira"
+    },
+    "splash" : {
+      "imageId" : "splashImg",
+      "randomizerId" : "splashRand"
+    }
+  },
+  "randomizers" : {
+    "-KASdYmb-crNZqMhS2-8" : {
+      "-KASdYopcIXRcth0DFvu" : {
+        "author" : "I agree",
+        "quote" : "<div>Aurobindo era genial!!! Enserio</div>"
+      },
+      "-KASdmHGAZI4C9TcXgZO" : {
+        "author" : "Madre",
+        "quote" : "<p>Este otro texto me gusta también. Es de la</p>"
+      },
+      "-KAShbWoe0eYF0gD_MRC" : {
+        "quote" : "<div><br></div>"
+      },
+      "-KAShc1IcczWNKVlZjOy" : {
+        "quote" : "<div><br></div>"
+      }
+    },
+    "-KASjQZbUjmXLKACyTBY" : {
+      "-KASjQawycE7YCZsgFPB" : {
+        "quote" : "<div><br></div>"
+      }
+    },
+    "-KASnUIL4qa12k9fe2vK" : {
+      "-KASnUKQNJ3S-Ny2pYQN" : {
+        "quote" : "<div><br></div>"
+      }
+    },
+    "-KASnUnuCjR6e5ni__JZ" : {
+      "-KASnUqbJER_0am0nYBu" : {
+        "quote" : "<div><br></div>"
+      }
+    },
+    "-KASnVEYEo59IYobv4H3" : {
+      "-KASnVH9BRFikhanrwqL" : {
+        "quote" : "<div><br></div>"
+      }
+    },
+    "-KASnVd60lQtBnEwHT0u" : {
+      "-KASnVfxTb7gXMpfcQYZ" : {
+        "quote" : "<div><br></div>"
+      }
+    },
+    "-KAXjmZmJcyNlzAK8Z0K" : {
+      "-KAXjmb22a43dfmGHLzD" : {
+        "quote" : "<p>Hola ma, estoy <b>triunfando</b><br></p>"
+      },
+      "-KAXk1NjXke16ycsHJyp" : {
+        "author" : "Daniel Ángel",
+        "quote" : "Ves?<div><br></div>"
+      },
+      "-KAXk4H0DR4Cta1Ddatr" : {
+        "author" : "Juan Pis",
+        "quote" : "Sí claro!!!<br><div><br></div>"
+      }
+    },
+    "-KAaIX_jGp9K-N05ihv3" : {
+      "-KAaIXbPU4h1S7d7Dr1J" : {
+        "author" : "(continúa...)",
+        "quote" : "<div>Hay una evolución ascendente en la naturaleza que va desde la piedra hasta la planta, desde la planta hasta el animal, desde el animal hasta el hombre. Porque el hombre es, por el momento, el último escalón en la cima de la evolución ascendente, se considera a sí mismo como el estadio  nal en esta ascensión y cree que no puede haber nada superior a él en la Tierra. En eso está equivocado. En esta naturaleza física él es todavía casi enteramente un animal, un animal pensante y parlante, pero todavía animal en sus hábitos materiales e instintos. Indudable- mente, la naturaleza no puede estar satisfecha con un resultado tan imperfecto; ella se empeña en hacer salir un ser que será al hombre lo que el hombre es al animal, un ser que permanecerá hombre en su forma externa, cuya conciencia se elevará por encima del mental y de su esclavitud de la ignorancia.<br></div>"
+      },
+      "-KAaIbdTUABzmPQLgxsn" : {
+        "author" : "La Madre",
+        "quote" : "<div>Sri Aurobindo vino a la Tierra para enseñar esta verdad a los hombres. Él les dijo que el hombre es sólo un ser en transición viviendo en una conciencia mental, pero con la posibilidad de adquirir una nueva conciencia, la Conciencia-Verdad, y capaz de vivir una vida perfectamente armónica, buena y bella, feliz y totalmente consciente. Sri Aurobindo empleó todo su tiempo para establecer en sí mismo esta conciencia que llamó supramental, y para ayudar a aquellos reunidos a su alrededor a realizarla. Ahora, todo depende de su voluntad y su sinceridad. Si ustedes tienen la voluntad de no pertenecer más a la humanidad ordinaria, de no ser meramente animales evolucionados; si su voluntad es convertirse en hombres de la nueva raza que realicen el ideal supramental de Sri Aurobindo, viviendo una vida nueva y más elevada sobre la Tierra, encontrarán aquí toda la ayuda necesaria para alcanzar su propósito, aprovecharán completamente su estadía en el ashram [sitio creado para prácticas espirituales] y eventualmente se volverán ejemplos vivos para el mundo.<br></div>"
+      }
+    },
+    "-KAafi_8AWEXHJQXc5Uz" : {
+      "-KAafiatjBynHxsPlemj" : {
+        "quote" : "<p><span style=\"line-height: 1.5;\"><b>Vida de Ashram</b></span></p><p><span style=\"line-height: 1.5;\"><b>Puente:</b>&nbsp;Viernes 14 a lunes 17 de agosto</span><br></p><p>(si quiere llegar desde el jueves 13 en la tarde)</p><p>No hay asistencia parcial durante el puente.</p><p> </p><p><b>De un día en adelante:</b> Lunes 17 al medio día</p><p>hasta jueves 20 de agosto a las 11:00 am</p><p> </p><p><b>Todo el tiempo:</b> Viernes 14 a jueves 20 de agosto</p><p>a las 11:00 am  (si quiere llegar desde el jueves 13 en la tarde)</p>"
+      }
+    },
+    "-KAakbvVwgLbh727YmXO" : {
+      "-KAakbxG8FgkbcHuj1_6" : {
+        "quote" : "<div><p>El primer paso en este trabajo de perfeccionamiento es el de volverse consciente de uno mismo, de las diferentes partes de su ser y de sus respectivas actividades. Hay que aprender a distinguir estas diferentes partes, la una de la otra, a  n de poder darse cuenta claramente del origen de los movimientos que se producen en uno, de los impulsos, de las reacciones, de los distintos caprichos que lo empujan a actuar. Este es un estudio asiduo que exige mucha perseverancia y sinceridad; ya que la naturaleza humana, sobretodo la naturaleza mental, tiene la tendencia espontánea de dar una explicación favorable a todo lo que pensamos, sentimos, decimos y hacemos. Es solamente observando estos movimientos con mucho cuidado, haciéndolos pasar, por así decir, por delante del tribunal de nuestro ideal más elevado, con una voluntad sincera de someternos a su juicio, que podemos esperar</p><p>educar en nosotros un discernimiento que no se equivoque nunca. Porque si nosotros queremos verdaderamente progresar y adquirir la capacidad de conocer la verdad de nuestro ser, es decir para aquello para lo que verdaderamente fuimos hechos, lo que podemos llamar nuestra misión sobre la tierra, necesitamos, muy regularmente y muy constantemente, rechazar de nosotros o abolir en nosotros lo que esté en contradicción con la verdad de nuestra existencia, lo que se opone a ella. Es así que poco a poco todas las partes, todos los elementos de nuestro ser pueden ser organizados en un todo homogéneo alrededor de nuestro centro psíquico. Este trabajo de uni cación exige mucho tiempo para ser llevado a un cierto grado de perfección; y, para lograrlo, debemos armarnos de paciencia y resistencia, con una determinación de prolongar nuestra vida tanto como sea necesario para cumplir nuestra meta.</p></div>"
+      }
+    },
+    "-KAalbIXXzoQDTKLPvc9" : {
+      "-KAalbKAZ1pV6Fn1YTB4" : {
+        "quote" : "<div><br></div>"
+      }
+    },
+    "-KAaldzO-IznBwD1DZrw" : {
+      "-KAale05Wur54B-6SgHb" : {
+        "quote" : "<div><br></div>"
+      }
+    },
+    "-KAaleQMGqHmyVLXzc-z" : {
+      "-KAaleSDSqFlNA1FUOX0" : {
+        "quote" : "<div><br></div>"
+      }
+    },
+    "-KAalgSvyrCT9EYYTkHN" : {
+      "-KAalgUVKWOeIeimIawR" : {
+        "quote" : "<div><br></div>"
+      }
+    },
+    "-KAalu4QJOUNS3bXpDN_" : {
+      "-KAalu6q0GkCV03Hoblf" : {
+        "quote" : "<div><br></div>"
+      }
+    },
+    "-KAalw9yQZ_HmyWhGlMc" : {
+      "-KAalwCLGf92Mld6Dbqa" : {
+        "quote" : "<div><br></div>"
+      }
+    },
+    "splashRand" : {
+      "-KASWydxjRMuI-mNf8re" : {
+        "author" : "Sri Aurobindo",
+        "quote" : "<p>\"El verdadero movimiento se da cuando, aun caminando&nbsp;trabajando o hablando, uno está en sadhana.\"</p>"
+      },
+      "-KASZUACH67Zgma-2Yba" : {
+        "author" : "Sri Aurobindo",
+        "quote" : "<p>\"El silencio activo es ese en el que hay una gran fuerza saliendo&nbsp;hacia las cosas y fuerzas, sin alterar el silencio.\"</p>"
+      },
+      "-KASg_LnBcdK36VStTrx" : {
+        "author" : "Sri Aurobindo",
+        "quote" : "<p>\"Debe haber una completa concentración en el trabajo, si es que&nbsp;éste ha de tomar el lugar de la meditación.\"</p>"
+      },
+      "-KAV1klamCTPPJwVlNB-" : {
+        "author" : "Sri Aurobindo",
+        "quote" : "<p>\"La primera necesidad es la práctica de la concentración de la&nbsp;conciencia en usted.\"</p>"
+      },
+      "-KAV1rjU2pWwF_7Fm5rh" : {
+        "author" : "Sri Aurobindo",
+        "quote" : "<p>\"Aquietar la mente y comenzar a vivir adentro es el objeto de la&nbsp;concentración.\"</p>"
+      }
+    }
+  },
+  "sections" : {
+    "-KAPtIZakcWzjVpGtT2x" : {
+      "articles" : [ "-KAPuDCTaNpqB9hckBzP" ],
+      "title" : "",
+      "url" : "home"
+    },
+    "-KAPuWfbDs7phNgF5RMM" : {
+      "articles" : [ "-KASRiG0iyQ7CScUSoAy", "-KASRjsVWy-3hLCtWNUP", "-KASRkrQKe0W36IfFToE" ],
+      "title" : "Filosofía",
+      "url" : "filosofia"
+    },
+    "-KAPvC_N4Om0LaWoWCwX" : {
+      "articles" : [ "-KASSLrM9j89nDYh3DtB", "-KASSQJoaIQYS0-P8TEr", "-KASSSjfvjKeYoJKO6W-", "-KASSW5a-zQhgcUzc5hn" ],
+      "title" : "Educación",
+      "url" : "educacion"
+    },
+    "-KAQkCLxm8xaC0jG6rxN" : {
+      "articles" : [ "-KASRnGaMHpkBXlMjc2G", "-KASRofVJkVkTXwXxii5", "-KASRpVF9WNNVC3-di6t" ],
+      "title" : "Sede",
+      "url" : "sede"
+    },
+    "-KAQlAin2V7tsy373-4-" : {
+      "articles" : [ "-KASSpec_FYfxdPDkVji" ],
+      "title" : "Ediciones",
+      "url" : "ediciones"
+    }
+  }
+}

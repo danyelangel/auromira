@@ -1,0 +1,38 @@
+<div class="quote"
+   ng-if="!randomizerEl.authData"
+     ng-bind-html="randomizerEl.current.quote">
+</div>
+<div class="quote"
+     ng-if="randomizerEl.authData"
+     medium-editor
+     ng-model="randomizerEl.current.quote"
+     ng-change="randomizerEl.data.$save(randomizerEl.current)"
+     data-placeholder="Escriba texto"
+     bind-options="randomizerEl.quoteOptions"></div>
+
+<span class="author"
+      ng-if="!randomizerEl.authData">{{randomizerEl.current.author}}</span>
+<span class="author"
+      ng-if="randomizerEl.authData"
+      ng-model="randomizerEl.current.author"
+      ng-change="randomizerEl.data.$save(randomizerEl.current)"
+      medium-editor
+      data-placeholder="Autor"
+      bind-options="{disableReturn: true, disableExtraSpaces: true, toolbar: false}"></span>
+<div class="icons">
+  <span ng-if="randomizerEl.dataLength>1">{{randomizerEl.currentNumber + 1}} de {{randomizerEl.dataLength}}</span>
+  <a ng-click="randomizerEl.previous()">
+    <i class="material-icons">arrow_back</i>
+  </a>
+  <a ng-click="randomizerEl.next()">
+    <i class="material-icons">arrow_forward</i>
+  </a>
+  <a ng-click="randomizerEl.add()"
+     ng-if="randomizerEl.authData">
+    <i class="material-icons">add</i>
+  </a>
+  <a ng-click="randomizerEl.remove()"
+     ng-if="randomizerEl.authData && randomizerEl.data.length > 1">
+    <i class="material-icons">delete</i>
+  </a>
+</div>
